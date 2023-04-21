@@ -17,7 +17,7 @@ In Git Bash, you can use the openssl command just like you would on a Unix-based
 ```
 ###  Method 2: Installing OpenSSL directly on Windows
 
-Download the precompiled OpenSSL binaries for Windows from this link. Choose the appropriate version for your system (either 32-bit or 64-bit) and install it.
+Download the precompiled OpenSSL binaries for Windows from this link. https://slproweb.com/products/Win32OpenSSL.html  Choose the appropriate version for your system (either 32-bit or 64-bit) and install it.
 
 Add the OpenSSL installation folder to the Windows PATH environment variable:
 
